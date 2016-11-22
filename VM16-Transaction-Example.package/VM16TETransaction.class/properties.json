@@ -1,0 +1,17 @@
+{
+	"category" : "VM16-Transaction-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"predecessor",
+		"amount",
+		"from",
+		"to" ],
+	"name" : "VM16TETransaction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

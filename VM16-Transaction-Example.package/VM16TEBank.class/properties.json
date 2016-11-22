@@ -1,0 +1,15 @@
+{
+	"category" : "VM16-Transaction-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accounts",
+		"transactions" ],
+	"name" : "VM16TEBank",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
