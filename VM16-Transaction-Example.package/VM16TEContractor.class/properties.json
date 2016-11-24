@@ -1,0 +1,14 @@
+{
+	"category" : "VM16-Transaction-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VM16TEContractor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

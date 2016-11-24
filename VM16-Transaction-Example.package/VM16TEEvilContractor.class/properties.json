@@ -1,0 +1,14 @@
+{
+	"category" : "VM16-Transaction-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ownAccount" ],
+	"name" : "VM16TEEvilContractor",
+	"pools" : [
+		 ],
+	"super" : "VM16TEContractor",
+	"type" : "normal" }
