@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 addAccount: anAccount
 
 	accounts add: anAccount

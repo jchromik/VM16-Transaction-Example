@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 addTransaction: aTransaction
 
 	aTransaction predecessor: transactions.

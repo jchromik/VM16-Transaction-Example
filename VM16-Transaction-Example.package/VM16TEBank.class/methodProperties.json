@@ -4,5 +4,6 @@
 	"instance" : {
 		"addAccount:" : "jc 11/22/2016 12:24",
 		"addTransaction:" : "jc 11/22/2016 12:26",
+		"balanceForAccount:" : "jc 11/24/2016 10:03",
 		"initialize" : "jc 11/22/2016 12:17",
 		"showAccounts" : "jc 11/24/2016 09:52" } }
