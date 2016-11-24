@@ -1,0 +1,14 @@
+{
+	"category" : "VM16-Transaction-Example-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VM16TEBankTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
